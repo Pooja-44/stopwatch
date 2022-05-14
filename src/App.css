@@ -1,6 +1,24 @@
 .App {
   text-align: center;
+  border-right:rgb(78, 197, 230) solid 3px;
+  border-left:rgb(83, 211, 247) solid 3px;
+  border-bottom:hsl(193, 89%, 72%) solid 30px;
+  border-top:#6ed5f1 solid 45px;
+  border-radius: 15px;
+  height: 230px;
+  width:400px;
+  margin-top: 20px;
+  margin-left: 400px;
+  
 }
+h1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  letter-spacing: 4px;
+  font-size: 38px;
+  margin:0;
+  
+}
+
 
 .App-logo {
   height: 40vmin;
